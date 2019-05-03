@@ -10,7 +10,7 @@ from fastai.vision import *
 
 # export_file_url = 'https://www.dropbox.com/s/v6cuuvddq73d1e0/export.pkl?raw=1'
 export_file_url = 'https://drive.google.com/uc?export=download&id=1Yfg53w-aSyf6v0yEeAIG5g6e-TrD2xat'
-export_file_name = 'export.pkl'
+export_file_name = 'fastai-classifier.pkl'
 
 classes = ['lions', 'tiger', 'cheetha']
 path = Path(__file__).parent
